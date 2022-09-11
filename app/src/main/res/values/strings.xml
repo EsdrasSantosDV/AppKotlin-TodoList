@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TodoEsdrasLista</string>
+    <string name="botao_ok" translatable="false">OK</string>
+    <string name="input_mensagem">Describe the Task</string>
+    <string name="lbl_urgent">Urgent</string>
+    <string name="check_show">Show not Done Tasks</string>
+    <string name="lbl_done">Done</string>
+</resources>

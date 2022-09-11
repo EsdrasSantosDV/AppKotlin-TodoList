@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoEsdrasLista</string>
+    <string name="input_mensagem">Descreva a tarefa</string>
+    <string name="lbl_urgent">Urgente</string>
+    <string name="check_show">" Mostrar tarefas não concluídas"</string>
+
+    <string name="lbl_done">Feito</string>
+</resources>
